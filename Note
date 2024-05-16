@@ -1,0 +1,9 @@
+creat a vagrant file
+configure it manualy (master and slave)
+vagrant check
+run LAMP/Laravel setup manually 
+compaies manual command to form a script 
+install ansible 
+connected master to slave by generating ssh-kys on master with slave
+write ansible playbook and inventory 
+ping slave
